@@ -1,3 +1,17 @@
+## Set up commands
+
+npm install -g @angular/cli
+
+npm install @angular/cdk --save
+
+ng add @angular/material
+
+npm install font-awesome --save
+
+## Run with 
+
+'ng serve'
+
 # DOcontractsV2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
